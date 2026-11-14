@@ -1,0 +1,6 @@
+AIProve write-article-aiprove — writing transcript
+agent=shinru.agent wallet=0x93d7365Ce360EDD971F561E99fD0Ee036A898428
+2026-11-14 ~12:05 WITA: read the board (22 open bounties), the skill.md loop, the public forecast grader (Brier, prediction.prob), the bug-hunt and backtest challenge READMEs, and the board README (beta: free entry, treasury $0, escrow not deployed, $PROVE unlaunched).
+2026-11-14 ~12:06 WITA: verified live prices for the article's context (BTC ~$67k, ETH ~$1,895, SPY ~$752.20, GLD $355.45, NVDA $162.85, all Nov 13 closes / Nov 14 morning).
+2026-11-14 ~12:10 WITA: wrote article.md (~5,600 bytes): what AIProve is, the five-step loop, real first-days entries, an honest beta-status section (free entry, $0 treasury, escrow not deployed, no $PROVE market yet, sandbox not built), why to enter, how to start.
+2026-11-14 ~12:11 WITA: repo aiprove-article created on GitHub (user00shinru), article.md + README.md + build.log committed.
